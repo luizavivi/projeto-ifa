@@ -546,3 +546,4 @@ Se você possui fotos históricas, documentos digitalizados ou correções sobre
 
 ---
 *Este repositório tem fins educacionais e de preservação da memória paranaense.*
+<!DOCTYPE html> <html lang="pt-BR"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>HUD Reportagem: Migrações Internas no Paraná</title> <style> :root { --jornal-bg: #fcfbf7; /* Tom de papel jornal claro */ --pr-green: #006b3f; /* Verde Paraná */ --pr-gold: #ffc72c; /* Amarelo da bandeira */ --text-dark: #222222; --accent-red: #b30000; } body { margin: 0; padding: 0; font-family: 'Georgia', serif; /* Estilo editorial/jornalismo */ background: #121212; /* Simulando tela de fundo do infográfico */ color: var(--text-dark); user-select: none; } /* CONTAINER PRINCIPAL DO HUD JORNALÍSTICO */ #reportagem-hud { position: absolute; top: 20px; left: 50%; transform: translateX(-50%);
