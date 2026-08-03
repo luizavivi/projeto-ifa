@@ -670,3 +670,6 @@ Ao contrário de outras etnias que ficaram estritamente no campo, muitos italian
 
 ---
 [⬅️ Voltar para a Página Inicial](../README.md)
+theme: jekyll-theme-architect
+title: Imigração Alemã e Italiana no Paraná
+description: História, colônias e o legado cultural no estado.
