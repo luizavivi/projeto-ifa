@@ -673,3 +673,4 @@ Ao contrário de outras etnias que ficaram estritamente no campo, muitos italian
 theme: jekyll-theme-architect
 title: Imigração Alemã e Italiana no Paraná
 description: História, colônias e o legado cultural no estado.
+<!DOCTYPE html> <html lang="pt-BR"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Netherlands Gift HUD</title> <style> :root { --oranje: #FF4F00; /* Laranja Holandês */ --wilhelmus-blue: #21468B; /* Azul da bandeira */ --white: #FFFFFF; --gold: #FFD700; } body { margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #1a1a1a; /* Fundo escuro simulando o jogo */ overflow: hidden; user-select: none; } /* Container Principal do HUD */ #netherlands-hud { position: absolute; top: 20px; left: 50%; transform: translateX(-50%); display: flex; align-items: center; gap: 25px; background: rgba(33, 70, 139, 0.85); 
