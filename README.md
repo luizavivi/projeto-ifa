@@ -492,7 +492,7 @@ Bem-vindo ao repositório dedicado à preservação e divulgação da história 
 
 ---
 
-## 📍 Linha do Tempo Histórica
+<mark>Seu texto aqui</mark>## 📍 Linha do Tempo Histórica
 
 ### 1. As Origens e o Caminho das Tropas (Século XVIII)
 Antes da colonização europeia, a região era habitada por indígenas das etnias Kaingang e Xokleng. A história urbana de Rio Negro começa a se desenhar a partir de **1730**, com a abertura do **Caminho das Tropas** (ou Estrada da Mata) por Viamão.
@@ -531,7 +531,7 @@ Rio Negro preserva marcos arquitetônicos importantes que contam a sua história
 
 ---
 
-## 📊 Dados Gerais do Município
+<mark>Seu texto aqui</mark>## 📊 Dados Gerais do Município
 * **Gentílico:** Rionegrense
 * **Aniversário:** 15 de novembro
 * **Padroeiro:** Senhor Bom Jesus da Coluna
@@ -560,7 +560,7 @@ A partir de 1853, com a emancipação política do Paraná, o governo provincial
 
 ## 👥 As Matrizes Étnicas e seus Impactos
 
-### 🇵🇱 Poloneses: A Força da Terra
+<mark>Seu texto aqui</mark>### 🇵🇱 Poloneses: A Força da Terra
 Instalados a partir de **1871** na Região Metropolitana de Curitiba, expandiram-se para o Centro-Sul (Mallet, São Mateus do Sul).
 * **Cultura:** Introdução da carroça de quatro rodas (*vônga*) e o prato típico *pierogi*.
 * **Arquitetura:** Casas de troncos de pinheiro perfeitamente encaixados, sem pregos.
@@ -589,7 +589,7 @@ Chegaram nas primeiras décadas do século XX, estabelecendo-se no Norte Pioneir
 
 ---
 
-## 🗺️ Mosaico Geocultural do Estado
+<mark>Seu texto aqui</mark>## 🗺️ Mosaico Geocultural do Estado
 
 A distribuição geográfica criou identidades regionais muito distintas no Paraná:
 
@@ -629,7 +629,7 @@ Para rodar ou modificar o projeto localmente em sua máquina, utilize os comando
 
 A presença germânica no Paraná é uma das mais antigas do período imperial, iniciando-se antes mesmo da emancipação política da província.
 
-## 📍 Linha do Tempo e Principais Colônias
+<mark>Seu texto aqui</mark>## 📍 Linha do Tempo e Principais Colônias
 
 1. **1829 - Rio Negro:** O marco inicial ocorre com a chegada de famílias vindas de Tréveris, estabelecendo-se na fronteira com Santa Catarina.
 2. **1851 - Colônia Dona Francisca:** Embora localizada em Joinville (SC), serviu como porta de entrada para muitas famílias que subiram o planalto em direção ao território paranaense.
@@ -659,7 +659,7 @@ A imigração italiana no Paraná ganhou força a partir de 1875, impulsionada p
 ## 🍷 Vitivinicultura e Gastronomia
 
 Os italianos foram os responsáveis por transformar a paisagem agrícola ao redor de Curitiba e no sudoeste do estado:
-* **Produção de Vinho:** Introduziram o cultivo de uvas (especialmente as variedades Isabel e Bordô) e a fabricação de vinhos artesanais.
+<mark>Seu texto aqui</mark>* **Produção de Vinho:** Introduziram o cultivo de uvas (especialmente as variedades Isabel e Bordô) e a fabricação de vinhos artesanais.
 * **Culinária:** Pratos como a polenta brustolada, risotos, frango frito e massas caseiras foram integrados ao cardápio diário dos paranaenses.
 
 ## 🧱 Contribuição Urbana e Industrial
