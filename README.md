@@ -486,3 +486,63 @@
 
 </body>
 </html>
+# A História de Rio Negro - Paraná 🇧🇷
+
+Bem-vindo ao repositório dedicado à preservação e divulgação da história completa do município de Rio Negro, localizado no sudeste do estado do Paraná, na divisa com Santa Catarina.
+
+---
+
+## 📍 Linha do Tempo Histórica
+
+### 1. As Origens e o Caminho das Tropas (Século XVIII)
+Antes da colonização europeia, a região era habitada por indígenas das etnias Kaingang e Xokleng. A história urbana de Rio Negro começa a se desenhar a partir de **1730**, com a abertura do **Caminho das Tropas** (ou Estrada da Mata) por Viamão.
+* **O Rio Negro:** O rio que dá nome à cidade era um ponto crítico de travessia para os tropeiros que levavam gado do Rio Grande do Sul até a feira de Sorocaba em São Paulo.
+* **Passo do Rio Negro:** Um posto de passagem e pouso fortificado foi estabelecido nas margens do rio para garantir a segurança e a cobrança de impostos da Coroa Portuguesa.
+
+### 2. A Fundação e a Colonização Imperial (Século XIX)
+A povoação oficial começou a ganhar força no início do século XIX, impulsionada por políticas imperiais de povoamento das fronteiras internas.
+* **1829 (Marco Zero):** Chegada do primeiro grupo de colonos alemães (vindos da região de Tréveris). Eles se estabeleceram na margem esquerda do rio (onde hoje é Mafra - SC).
+* **1870 (Emancipação):** Em 15 de novembro de 1870, através da Lei Provincial nº 219, Rio Negro foi oficialmente desmembrado de São José dos Pinhais e elevado à categoria de município.
+
+### 3. A Imigração Bucovina e Europeia (Final do Século XIX)
+O evento cultural mais marcante da identidade rionegrense ocorreu em **1887**, com a chegada dos **Bucovinos**.
+* **Quem eram:** Famílias originárias da região da Bucovina (então parte do Império Austro-Húngaro, hoje dividida entre a Romênia e a Ucrânia).
+* **Legado:** Trouxeram técnicas agrícolas próprias, arquitetura germânica e tradições religiosas que moldaram a cultura local.
+* **Outras etnias:** A cidade também recebeu fortes levas de imigrantes poloneses, ucranianos e italianos.
+
+### 4. A Guerra do Contestado e a Divisão da Cidade (1912 - 1916)
+Rio Negro desempenhou um papel geográfico central durante a **Guerra do Contestado**. 
+* **O Acordo de Limites (1916):** Para encerrar os conflitos territoriais entre Paraná e Santa Catarina, o presidente Wenceslau Brás assinou o acordo que fixou o Rio Negro como divisa natural dos estados.
+* **A Divisão:** A porção do município que ficava na margem catarinense foi desligada de Rio Negro, dando origem ao município irmão de **Mafra (SC)**. Desde então, são conhecidas como "Cidades Gêmeas".
+
+### 5. Século XX: Desenvolvimento e Modernização
+* **Ferrovia:** A chegada da Estrada de Ferro São Paulo-Rio Grande impulsionou o comércio de madeira e erva-mate.
+* **Navegação Fluvial:** O Rio Negro foi navegável por décadas, escoando a produção regional por barcos a vapor até o Rio Iguaçu.
+* **Presença Militar:** O estabelecimento do 5º Regimento de Carros de Combate (5º RCC) consolidou a importância estratégica da cidade.
+
+---
+
+## 🏛️ Patrimônio Histórico e Turismo
+
+Rio Negro preserva marcos arquitetônicos importantes que contam a sua história:
+1. **Parque Ecoturístico Municipal São Luís de Tolosa:** Antigo seminário franciscano fundado em 1923, hoje abriga a sede da prefeitura, um museu histórico e vasta área verde.
+2. **Ponte Metálica Dr. Diniz Assis Henning:** Inaugurada em 1896, importada da Bélgica, une Rio Negro (PR) a Mafra (SC) e é o principal símbolo de união das duas cidades.
+3. **Igreja Matriz Senhor Bom Jesus da Coluna:** Construção imponente com forte valor histórico e religioso para a comunidade local.
+
+---
+
+## 📊 Dados Gerais do Município
+* **Gentílico:** Rionegrense
+* **Aniversário:** 15 de novembro
+* **Padroeiro:** Senhor Bom Jesus da Coluna
+* **Principais Atividades Econômicas:** Agricultura (soja, milho, fumo), pecuária, indústrias cerâmicas e comércio.
+
+---
+
+## 🛠️ Como contribuir com este projeto
+Se você possui fotos históricas, documentos digitalizados ou correções sobre a história de Rio Negro - PR, sinta-se à vontade para:
+1. Abrir uma **Issue** para debater melhorias.
+2. Enviar um **Pull Request** com novas informações documentadas.
+
+---
+*Este repositório tem fins educacionais e de preservação da memória paranaense.*
