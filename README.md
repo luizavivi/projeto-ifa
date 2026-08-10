@@ -1,3 +1,10 @@
+body {
+    background-color: var(--bg-color);
+    color: var(--text-dark);
+    line-height: 1.7;
+    min-height: 2000px; /* Isso força a página a ficar gigante para testar a rolagem! */
+}
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
