@@ -674,3 +674,26 @@ theme: jekyll-theme-architect
 title: Imigração Alemã e Italiana no Paraná
 description: História, colônias e o legado cultural no estado.
 <!DOCTYPE html> <html lang="pt-BR"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Netherlands Gift HUD</title> <style> :root { --oranje: #FF4F00; /* Laranja Holandês */ --wilhelmus-blue: #21468B; /* Azul da bandeira */ --white: #FFFFFF; --gold: #FFD700; } body { margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #1a1a1a; /* Fundo escuro simulando o jogo */ overflow: hidden; user-select: none; } /* Container Principal do HUD */ #netherlands-hud { position: absolute; top: 20px; left: 50%; transform: translateX(-50%); display: flex; align-items: center; gap: 25px; background: rgba(33, 70, 139, 0.85); 
+# A Importância da Presença Negra no Paraná ✊🏿🌲
+
+Este repositório foi criado com o objetivo de centralizar informações, dados históricos e referências sobre a contribuição e a relevância da população negra na formação social, econômica e cultural do estado do Paraná.
+
+## 📌 Motivação do Projeto
+Historicamente, a historiografia oficial do Sul do Brasil enfatizou a imigração europeia, frequentemente deixando em segundo plano a participação crucial de negros (escravizados e livres) na construção do estado. Este projeto visa:
+- Combater o apagamento histórico da população negra paranaense.
+- Divulgar o patrimônio cultural e material (como os Quilombos e a arquitetura).
+- Servir de base para estudantes e pesquisadores do tema.
+
+## 📂 Estrutura do Repositório
+- `index.html`: Página web simples e responsiva apresentando os pilares do tema.
+- `README.md`: Este arquivo com o contexto geral.
+
+## 🚀 Como Visualizar
+1. Faça o clone deste repositório.
+2. Abra o arquivo `index.html` em qualquer navegador web.
+3. Se preferir, ative o **GitHub Pages** nas configurações do repositório para transformar este código em um site ativo gratuitamente.
+
+## 📚 Fontes e Referências Recomendadas
+- Núcleo de Estudos Afro-Brasileiros (NEAB) das universidades paranaenses.
+- Federação Estadual das Comunidades Quilombolas do Paraná (FECOQUI).
+- Livro: *A Presença Negra no Paraná* (vários autores).
