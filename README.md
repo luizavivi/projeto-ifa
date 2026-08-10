@@ -2,6 +2,28 @@ body {
     background-color: var(--bg-color);
     color: var(--text-dark);
     line-height: 1.7;
+    /* Força o navegador a permitir a rolagem vertical, não importa o que aconteça */
+    overflow-y: auto !important; 
+    min-height: 100vh;
+}
+
+/* Layout Principal em Duas Colunas */
+.main-wrapper {
+    max-width: 1400px;
+    margin: 40px auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 40px;
+    /* Garante que o container estique junto com o conteúdo */
+    height: auto !important; 
+    overflow: visible !important;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-dark);
+    line-height: 1.7;
     min-height: 2000px; /* Isso força a página a ficar gigante para testar a rolagem! */
 }
 
