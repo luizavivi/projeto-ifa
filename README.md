@@ -131,3 +131,47 @@ A regionalização do Paraná não é apenas uma divisão de linhas no mapa, mas
 
 ---
 *Trabalho Interdisciplinar estruturado para documentação de projetos regionais.*
+# 🎨 Mestres da Arte Paranaense: Andersen, Zaco e Bakun
+
+Este documento homenageia três dos maiores pilares das artes visuais do Paraná. Eles capturaram a essência da paisagem, do povo e da identidade paranaense por meio de pinceladas e esculturas históricas.
+
+---
+
+## 👨‍🎨 1. Alfredo Andersen (1860–1935)
+Conhecido legitimamente como o **"Pai da Pintura Paranaense"**, Andersen nasceu na Noruega e adotou o Paraná como sua pátria. Ele estabeleceu em Curitiba sua residência e ateliê, transformando-se na figura mais influente do cenário artístico do estado.
+
+* **Importância Pedagógica:** Mais do que um pintor, foi um mestre. Criou a primeira escola de desenho e pintura de Curitiba, moldando as gerações seguintes de artistas locais.
+* **Estilo e Temas:** Unia o rigor técnico europeu com o impressionismo. Suas telas retratam com sensibilidade retratos de figuras locais, cenas do cotidiano e as paisagens da costa e do planalto paranaense.
+* **Legado:** Sua antiga casa-ateliê em Curitiba é hoje o **Museu Alfredo Andersen**, dedicado a preservar sua memória e promover as artes.
+
+---
+
+## 🗿 2. João Zaco Paraná (1884–1961)
+Nascido João Zanetti na Colônia Alexandra (Paranaguá), adotou orgulhosamente o nome de sua terra natal, tornando-se **João Zaco Paraná**. É um dos maiores escultores da história da arte brasileira.
+
+* **Trajetória:** De origem humilde, seu talento precoce garantiu-lhe uma bolsa de estudos na Europa, onde viveu por anos e conviveu com grandes mestres da escultura em Paris.
+* **Estilo e Anatomia:** Dominava as técnicas em bronze e mármore, destacando-se pela força dramática, expressividade das feições humanas e perfeição anatômica de suas figuras.
+* **Obras Marcantes:** Autor do monumental **Monumento ao Semeador** (localizado na Praça Eufrásio Correia, em Curitiba), uma escultura que sintetiza a força do trabalhador e o espírito agrícola do estado.
+
+---
+
+## 🌻 3. Miguel Bakun (1909–1963)
+Considerado o **"Van Gogh Paranaense"**, Bakun nasceu em Mallet e era descendente de imigrantes ucranianos. Autodidata e com uma vida humilde e trágica, ele se tornou o maior pioneiro do **Expressionismo** no Paraná.
+
+* **Trajetória de Vida:** Antes de se dedicar inteiramente à pintura, trabalhou na Marinha do Brasil e como fotógrafo ambulante e alfaiate para sobreviver.
+* **Estilo e Emoção:** Suas pinceladas eram grossas, texturizadas e carregadas de pura emoção. Ele não buscava retratar a realidade de forma fotográfica, mas sim transmitir seu estado psicológico através das telas.
+* **Temas:** Suas obras mais marcantes retratam a paisagem paranaense — em especial as araucárias, os banhados e o subúrbio de Curitiba — com cores vibrantes, dramáticas e contornos distorcidos.
+
+---
+
+## 🖼️ Galeria de Referência Visual
+
+| 🏠 Ateliê Histórico | 🌾 O Semeador | 🌲 Paisagem Paranaense |
+| :---: | :---: | :---: |
+| ![Museu Alfredo Andersen](https://wikimedia.org) | ![Monumento ao Semeador](https://wikimedia.org) | ![Araucárias](https://wikimedia.org) |
+| Museu Alfredo Andersen (Curitiba) | Obra-prima de João Zaco Paraná | Inspiração para a pintura de Miguel Bakun |
+
+---
+
+## 📌 Linha do Tempo Comparativa
+
