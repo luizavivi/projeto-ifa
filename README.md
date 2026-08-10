@@ -697,3 +697,186 @@ Historicamente, a historiografia oficial do Sul do Brasil enfatizou a imigraçã
 - Núcleo de Estudos Afro-Brasileiros (NEAB) das universidades paranaenses.
 - Federação Estadual das Comunidades Quilombolas do Paraná (FECOQUI).
 - Livro: *A Presença Negra no Paraná* (vários autores).
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geografia do Paraná: Regiões e Regionalização</title>
+    <style>
+        :root {
+            --primary: #006b3f; /* Verde bandeira do PR */
+            --secondary: #2b2b2b;
+            --light: #f4f7f6;
+            --white: #ffffff;
+            --accent: #009688;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            background-color: var(--light);
+            color: var(--secondary);
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            color: var(--white);
+            padding: 3rem 1rem;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        main {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .card {
+            background: var(--white);
+            border-radius: 8px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+
+        h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--light);
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        h3 {
+            margin-top: 1.5rem;
+            color: var(--accent);
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        li {
+            margin-bottom: 0.8rem;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+
+        li::before {
+            content: "•";
+            color: var(--accent);
+            font-weight: bold;
+            font-size: 1.3rem;
+            position: absolute;
+            left: 0;
+            top: -2px;
+        }
+
+        .geo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+
+        .grid-item {
+            background: var(--light);
+            padding: 1.5rem;
+            border-radius: 6px;
+            border-left: 4px solid var(--primary);
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            background: var(--secondary);
+            color: var(--white);
+            font-size: 0.9rem;
+            margin-top: 4rem;
+        }
+
+        @media (max-width: 768px) {
+            header h1 { font-size: 2rem; }
+            .card { padding: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Geografia do Paraná</h1>
+        <p>Estudo sobre a Divisão Regional e Regionalização do Estado</p>
+    </header>
+
+    <main>
+        <!-- Seção 1: Conceito -->
+        <section class="card">
+            <h2>Entendendo a Regionalização</h2>
+            <p>Regionalizar significa dividir um território em áreas menores (regiões) com base em critérios específicos, sejam eles naturais, econômicos, políticos ou sociais. No Paraná, essa divisão é fundamental para o planejamento público, investimentos e gestão de recursos.</p>
+        </section>
+
+        <!-- Seção 2: Divisão do IBGE -->
+        <section class="card">
+            <h2>1. Regiões Geográficas do IBGE (Atual)</h2>
+            <p>Desde 2017, o IBGE divide o Paraná em <strong>Regiões Geográficas Intermediárias</strong> e <strong>Imediatas</strong>, substituindo a antiga divisão de mesorregiões e microrregiões para refletir melhor a rede urbana atual.</p>
+            
+            <h3>As 6 Regiões Intermediárias:</h3>
+            <div class="geo-grid">
+                <div class="grid-item">
+                    <strong>Curitiba:</strong> Concentra o polo político, industrial e a maior densidade demográfica do estado.
+                </div>
+                <div class="grid-item">
+                    <strong>Londrina:</strong> Destaque para o setor de serviços, comércio e forte herança agrícola no norte.
+                </div>
+                <div class="grid-item">
+                    <strong>Maringá:</strong> Polo dinâmico de agronegócio, comércio, serviços e forte rede universitária.
+                </div>
+                <div class="grid-item">
+                    <strong>Ponta Grossa:</strong> Localizada nos Campos Gerais, grande polo industrial e logístico de escoamento.
+                </div>
+                <div class="grid-item">
+                    <strong>Cascavel:</strong> Capital do oeste paranaense, referência nacional em cooperativismo e agronegócio.
+                </div>
+                <div class="grid-item">
+                    <strong>Guarapuava:</strong> Centro-sul do estado, tradicionalmente ligada à agropecuária e indústria madeireira.
+                </div>
+            </div>
+        </section>
+
+        <!-- Seção 3: Regionalizações Culturais / Econômicas -->
+        <section class="card">
+            <h2>2. Regionalização Histórico-Cultural e Econômica</h2>
+            <p>Historicamente, a ocupação do Paraná moldou diferentes identidades regionais que explicam sua economia atual:</p>
+            <ul>
+                <li><strong>Norte Pioneiro e Norte Central:</strong> Colonizados sob o ciclo do café, hoje marcados pelo cultivo de grãos e fortes centros urbanos.</li>
+                <li><strong>Oeste e Sudoeste:</strong> Ocupados por migrantes gaúchos e catarinenses, focados na produção de grãos, suinocultura e avicultura.</li>
+                <li><strong>Campos Gerais:</strong> Região com forte tradição leiteira, grandes cooperativas e turismo de natureza.</li>
+                <li><strong>Litoral e Região Metropolitana:</strong> Onde começou a colonização; vive da atividade portuária (Paranaguá) e do turismo balnear.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Projeto desenvolvido para fins educacionais sobre a Geografia do Paraná.</p>
+    </footer>
+
+</body>
+</html>
